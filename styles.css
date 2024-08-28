@@ -1,0 +1,13 @@
+a img{
+    height: 300px;
+}
+a{
+    display: block;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(165, 144, 134);
+}
+a:hover{
+    color: rgb(75, 73, 73);
+}
